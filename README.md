@@ -1,4 +1,4 @@
-![screenshot da aplicação web](frontend/web.jpg)
+![screenshot da aplicação web](frontend/web.png)
 
 # Be the hero
 Aplicação Full stack, tendo como potencial um gerenciamento de ações sociais de possíveis ongs que possam chegar a se cadastrar.
@@ -16,7 +16,7 @@ Aplicação Full stack, tendo como potencial um gerenciamento de ações sociais
 
 5-Façao mesmo na pasta frontend para servir os arquivos visuais.
 
-![Screenshot do aplicativo mobile](mobile/mobile.jpg)
+![Screenshot do aplicativo mobile](mobile/mobile.png)
 
 ## Execução da versão mobile da aplicação.
 
